@@ -8,4 +8,4 @@ STEP 4. We'll save the DataFrame to a CSV file.
 
 
 Read more about Beautiful Soup in the Documentation:
-https://www.crummy.com/software/Beaut...
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
